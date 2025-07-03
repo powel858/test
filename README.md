@@ -4,5 +4,4 @@ git test repository
 ## git test
 
 #sk vhdnpfdlsep
-
-hi
+이것은 test입니다.
